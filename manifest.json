@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "short_name": "Notevn",
+  "name": "Notevn Tracker",
+  "description": "Allows you to keep track of your notes and quickly visit previously visited notes",
+  "browser_action": {
+    "default_icon": "img/icon-16.png",
+    "default_title": "Notevn Extension",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.bundle.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.bundle.js"]
+    }
+  ],
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "web_accessible_resources": [
+    "img/*",
+    "static/media/*.ttf",
+    "static/media/*.woff"
+  ],
+  "permissions": [
+    "notifications",
+    "storage",
+    "history",
+    "webNavigation",
+    "tabs",
+    "activeTab"
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self; font-src 'self' data:;"
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.css": "/static/css/app.2ca03e96.css",
+    "app.js": "/app.bundle.js",
+    "app.js.map": "/app.bundle.js.map",
+    "background.js": "/background.bundle.js",
+    "background.js.map": "/background.bundle.js.map",
+    "contentScript.js": "/contentScript.bundle.js",
+    "contentScript.js.map": "/contentScript.bundle.js.map",
+    "app.bundle.js.LICENSE": "/app.bundle.js.LICENSE",
+    "popup.html": "/popup.html",
+    "precache-manifest.908cea2a47a97f55b16bb9a96799bcdf.js": "/precache-manifest.908cea2a47a97f55b16bb9a96799bcdf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/app.2ca03e96.css.map": "/static/css/app.2ca03e96.css.map",
+    "static/media/ionicons.css": "/static/media/ionicons.621bd386.svg"
+  },
+  "entrypoints": [
+    "static/css/app.2ca03e96.css",
+    "app.bundle.js",
+    "background.bundle.js",
+    "contentScript.bundle.js"
+  ]
+}
