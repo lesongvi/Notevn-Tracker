@@ -9,3 +9,9 @@ Extension version: 0.0.1
 
 ## Contact
 I need suggestions for this extension, please [get in touch](https://notevn.com/lien-he) if you like.
+
+## Changelog
+[13/11/2020]
+Update the number of notes that can be saved is unlimited!
+The extension will no longer automatically save, instead every time you access notevn you will see a Share icon, click on it to save or delete.
+Each tab is automatically sorted by your last edit time on the browser you are using (Pin tab > Normal tab).
