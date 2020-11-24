@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58d5ddd7c45686cee395",
+    "revision": "21428518ea0cce3adf92",
     "url": "app.bundle.js"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "app.bundle.js.LICENSE"
   },
   {
-    "revision": "ca42ba46e307a40ee60f",
+    "revision": "90e8b5fb19d3f1f29bbb",
     "url": "background.bundle.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "popup.html"
   },
   {
-    "revision": "58d5ddd7c45686cee395",
+    "revision": "21428518ea0cce3adf92",
     "url": "static/css/app.063a8e56.css"
   },
   {
