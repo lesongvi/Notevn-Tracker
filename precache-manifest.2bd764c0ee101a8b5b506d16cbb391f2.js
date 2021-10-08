@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21428518ea0cce3adf92",
+    "revision": "2747a87364f0c35492e9",
     "url": "app.bundle.js"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "app.bundle.js.LICENSE"
   },
   {
-    "revision": "90e8b5fb19d3f1f29bbb",
+    "revision": "9bba57743560dc4aebdd",
     "url": "background.bundle.js"
   },
   {
-    "revision": "1f8eb86ecb8bed48b928ba8aa2180878",
+    "revision": "e7d5340dde137628807004374a9b7592",
     "url": "background.bundle.js.LICENSE"
   },
   {
-    "revision": "d02171cf4acb516b6bd6",
+    "revision": "e13243a25d072347cedb",
     "url": "contentScript.bundle.js"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "contentScript.bundle.js.LICENSE"
   },
   {
-    "revision": "5df8122529572f0d8ee77a5d0ff2f4e6",
+    "revision": "3f6812e31479166d2bce1b388b3b295d",
     "url": "popup.html"
   },
   {
-    "revision": "21428518ea0cce3adf92",
-    "url": "static/css/app.063a8e56.css"
+    "revision": "2747a87364f0c35492e9",
+    "url": "static/css/app.65e06f69.css"
   },
   {
     "revision": "05acfdb568b3df49ad31355b19495d4a",
