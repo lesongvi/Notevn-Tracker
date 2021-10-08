@@ -1,4 +1,8 @@
 # Notevn-Tracker
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20860845/136562621-e0e3cd12-22f9-49fe-9a22-38d7641508a7.png" />
+</p>
+
 ## Description
 This is official tracker extension from Notevn  
 
