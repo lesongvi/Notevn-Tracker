@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.0.1",
+  "version": "0.1.3",
   "short_name": "Notevn",
   "name": "Notevn Tracker",
   "description": "Allows you to keep track of your notes and quickly visit previously visited notes",
@@ -38,7 +38,9 @@
     "history",
     "webNavigation",
     "tabs",
-    "activeTab"
+    "activeTab",
+    "webRequest",
+    "webRequestBlocking"
   ],
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; font-src 'self' data:;"
 }
