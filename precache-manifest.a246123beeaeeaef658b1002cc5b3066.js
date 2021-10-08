@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d00c9af27deac098ff1a",
+    "revision": "8c1b758861207da86a61",
     "url": "app.bundle.js"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "contentScript.bundle.js"
   },
   {
-    "revision": "3f6812e31479166d2bce1b388b3b295d",
+    "revision": "61878845c09a8aef8c763b0fe7eceecf",
     "url": "popup.html"
   },
   {
-    "revision": "d00c9af27deac098ff1a",
-    "url": "static/css/app.65e06f69.css"
+    "revision": "8c1b758861207da86a61",
+    "url": "static/css/app.a6f32208.css"
   },
   {
     "revision": "05acfdb568b3df49ad31355b19495d4a",
