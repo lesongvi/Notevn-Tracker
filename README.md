@@ -1,4 +1,8 @@
 # Notevn-Tracker
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20860845/136562621-e0e3cd12-22f9-49fe-9a22-38d7641508a7.png" />
+</p>
+
 ## Description
 This is official tracker extension from Notevn  
 
@@ -16,7 +20,8 @@ I need suggestions for this extension, please [get in touch](https://notevn.com/
 - New panel update
 - New alias browser
 - Reduce extension size
-- New time format
+- New time format  
+  
 **[11/13/2020]**  
 - Update the number of notes that can be saved is unlimited!
 - The extension will no longer automatically save, instead every time you access notevn you will see a Share icon, click on it to save or delete.
