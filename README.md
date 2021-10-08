@@ -20,7 +20,8 @@ I need suggestions for this extension, please [get in touch](https://notevn.com/
 - New panel update
 - New alias browser
 - Reduce extension size
-- New time format
+- New time format  
+  
 **[11/13/2020]**  
 - Update the number of notes that can be saved is unlimited!
 - The extension will no longer automatically save, instead every time you access notevn you will see a Share icon, click on it to save or delete.
