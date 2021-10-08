@@ -20,7 +20,9 @@ I need suggestions for this extension, please [get in touch](https://notevn.com/
 - New panel update
 - New alias browser
 - Reduce extension size
-- New time format  
+- New time format
+- You can see your note content directly on the extention
+  
   
 **[11/13/2020]**  
 - Update the number of notes that can be saved is unlimited!
