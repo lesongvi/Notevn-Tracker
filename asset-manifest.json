@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.css": "/static/css/app.d4c6c83d.css",
-    "app.js": "/app.bundle.js",
-    "background.js": "/background.bundle.js",
-    "contentScript.js": "/contentScript.bundle.js",
-    "app.bundle.js.LICENSE": "/app.bundle.js.LICENSE",
-    "background.bundle.js.LICENSE": "/background.bundle.js.LICENSE",
-    "popup.html": "/popup.html",
-    "precache-manifest.b66a2a2aff4416b4532fb53fa0fff169.js": "/precache-manifest.b66a2a2aff4416b4532fb53fa0fff169.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/ionicons.css": "/static/media/ionicons.621bd386.svg"
+    "app.css": "./static/css/app.e67d8643.css",
+    "app.js": "./app.bundle.js",
+    "background.js": "./background.bundle.js",
+    "contentScript.js": "./contentScript.bundle.js",
+    "app.bundle.js.LICENSE": "./app.bundle.js.LICENSE",
+    "background.bundle.js.LICENSE": "./background.bundle.js.LICENSE",
+    "popup.html": "./popup.html",
+    "precache-manifest.4fc52123574bedffbed42342c3bfa98f.js": "./precache-manifest.4fc52123574bedffbed42342c3bfa98f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/ionicons.css": "./static/media/ionicons.621bd386.svg"
   },
   "entrypoints": [
-    "static/css/app.d4c6c83d.css",
+    "static/css/app.e67d8643.css",
     "app.bundle.js",
     "background.bundle.js",
     "contentScript.bundle.js"
