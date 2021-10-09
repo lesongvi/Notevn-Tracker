@@ -15,6 +15,10 @@ Extension version: 0.1.3
 I need suggestions for this extension, please [get in touch](https://notevn.com/lien-he) if you like.
 
 ## Changelog
+**[10/09/2021]**  
+- Update small stuffs
+  
+  
 **[10/08/2021]**  
 - Notes will be sorted based on the user's last change
 - New panel update
