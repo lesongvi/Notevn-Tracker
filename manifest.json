@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.1.4",
+  "version": "0.1.5",
   "short_name": "Notevn",
   "name": "Notevn Tracker",
   "description": "Allows you to keep track of your notes and quickly visit previously visited notes",
