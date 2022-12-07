@@ -1,10 +1,10 @@
 {
-  "manifest_version": 2,
-  "version": "0.1.5",
-  "short_name": "Notevn",
+  "manifest_version": 3,
+  "version": "0.1.6",
+  "short_name": "NVNTray",
   "name": "Notevn Tracker",
   "description": "Allows you to keep track of your notes and quickly visit previously visited notes",
-  "browser_action": {
+  "action": {
     "default_icon": {
       "16": "img/icon-16.png",
       "48": "img/icon-48.png",
@@ -14,12 +14,13 @@
     "default_popup": "popup.html"
   },
   "background": {
-    "scripts": ["background.bundle.js"]
+    "service_worker": "background.bundle.js"
   },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["contentScript.bundle.js"]
+      "js": ["contentScript.bundle.js"],
+      "run_at": "document_end"
     }
   ],
   "icons": {
@@ -27,20 +28,45 @@
     "48": "img/icon-48.png",
     "128": "img/icon-128.png"
   },
-  "web_accessible_resources": [
-    "img/*",
-    "static/media/*.ttf",
-    "static/media/*.woff"
-  ],
+  "web_accessible_resources": [{
+    "resources": [
+      "img/*",
+      "static/media/*.ttf",
+      "static/media/*.woff"
+    ],
+    "matches": [
+      "https://*/*"
+    ],
+    "extension_ids": [
+      "indcpkamiicgbaobmigelijhmkhpjhec",
+      "pngfofogfdednebhnopiknlngifaichc",
+      "gmecjjkfglkfajodhcnhljhmaneillfk"
+    ]
+  }],
   "permissions": [
+    "scripting",
     "notifications",
     "storage",
     "history",
     "webNavigation",
     "tabs",
     "activeTab",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "declarativeNetRequestFeedback",
+    "webNavigation",
     "webRequest",
-    "webRequestBlocking"
+    "unlimitedStorage"
   ],
-  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; font-src 'self' data:;"
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; font-src 'self' data:;"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "minimum_chrome_version": "102",
+  "externally_connectable": {
+    "matches": ["*://*.notevn.com/*"]
+  },
+  "incognito": "split"
 }
