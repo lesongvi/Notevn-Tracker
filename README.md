@@ -4,13 +4,18 @@
 </p>
 
 ## Description
-This is the official tracker extension from Notevn  
+This is the official tracker extension from NoteVN.  
 
 ## Extension detail
-Author: ViTech from RQN9  
+Author: lesongvi  
 Extension description: Allows you to keep track of your notes and quickly visit previously visited notes  
 Extension version: 0.1.6  
 Supported Chrome version: 102 and later  
+
+## Known issues
+- This extension is only available on Chrome version 102 and later.
+- This extension is not available on the Chrome Web Store.
+- Table is not displayed correctly on note content preview.
 
 ## Contact
 I would appreciate suggestions for this extension. Please [get in touch](https://notevn.com/lien-he) if you like.  
