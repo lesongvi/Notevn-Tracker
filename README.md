@@ -9,6 +9,7 @@
 ## Mô tả
 
 - Đây là tiện ích mở rộng chính thức từ Notevn
+- Đây là mã nguồn cũ và được giữ lại để tham khảo. Hiện tại, tiện ích đã được cập nhật và có thể tìm thấy trên kho tiện ích mở rộng chính thức của Chrome. Vui lòng truy cập [NoteVN Tracker trên Chrome Web Store](https://chromewebstore.google.com/detail/njoafddmfpboadeegehnhjdhhakifiaa) để cài đặt và sử dụng phiên bản mới nhất.
 
 ## Chi tiết tiện ích
 
