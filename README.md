@@ -6,23 +6,36 @@
  <img src="https://user-images.githubusercontent.com/20860845/136562621-e0e3cd12-22f9-49fe-9a22-38d7641508a7.png" />
 </p>
 
+<p align="center">
+ <img alt="Giao diện chính NoteVN Tracker" src="/assets/1.png" />
+</p>
+
 ## Mô tả
 
 - Đây là tiện ích mở rộng chính thức từ Notevn
-- Đây là mã nguồn cũ và được giữ lại để tham khảo. Hiện tại, tiện ích đã được cập nhật và có thể tìm thấy trên kho tiện ích mở rộng chính thức của Chrome. Vui lòng truy cập [NoteVN Tracker trên Chrome Web Store](https://chromewebstore.google.com/detail/njoafddmfpboadeegehnhjdhhakifiaa) để cài đặt và sử dụng phiên bản mới nhất.
+- Đây là repository cũ từng chứa mã nguồn của tiện ích (phiên bản cũ 0.1.6) và được giữ lại để thông báo về changelog mới của NoteVN Tracker. Hiện tại, tiện ích đã được cập nhật và có thể tìm thấy trên kho tiện ích mở rộng chính thức của Chrome. Vui lòng truy cập [NoteVN Tracker trên Chrome Web Store](https://chromewebstore.google.com/detail/njoafddmfpboadeegehnhjdhhakifiaa) để cài đặt và sử dụng phiên bản mới nhất.
 
 ## Chi tiết tiện ích
 
-- Tác giả: ViTech
+- Tác giả: Lê Song Vĩ
 - Mô tả tiện ích: Cho phép bạn theo dõi ghi chú của mình và nhanh chóng truy cập các ghi chú đã truy cập trước đó
-- Phiên bản tiện ích: 0.1.6
+- Phiên bản tiện ích: 0.1.7
 - Phiên bản Chrome được hỗ trợ: 102 và các phiên bản mới hơn
+- Phiên bản NoteVN Webapp được hỗ trợ: 472
 
 ## Liên hệ
 
 - Tôi rất trân trọng những gợi ý cho tiện ích này. Vui lòng [liên hệ](https://notevn.com/lien-he) nếu bạn thích.
 
 ## Changelog
+
+**[22/07/2025]**
+
+- Cập nhật phiên bản 0.1.7
+- NoteVN Tracker đã lên kho tiện ích mở rộng chính thức của Chrome, truy cập [NoteVN Tracker trên Chrome Web Store](https://chromewebstore.google.com/detail/njoafddmfpboadeegehnhjdhhakifiaa) để cài đặt và sử dụng phiên bản mới nhất.
+- Cập nhật giao diện trực quan mới, tùy chỉnh số lượng ghi chú hiển thị trên một trang, tùy chỉnh bố cục và phân trang mới
+- Cập nhật tìm kiếm ghi chú
+- Cập nhật nút "mở ghi chú trong tab mới" trong chi tiết ghi chú
 
 **[12/07/2022]**
 
