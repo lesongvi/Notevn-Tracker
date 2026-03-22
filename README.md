@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <img alt="Giao diện chính NoteVN Tracker" src="/assets/1.png" />
+ <img width="1280" height="800" alt="Giao diện chính NoteVN Tracker" src="https://github.com/user-attachments/assets/dc45b962-80d0-45ba-b1b8-0b3d09b4332b" />
 </p>
 
 ## Mô tả
